@@ -10,5 +10,5 @@ yarn run dev-server
 ## Built With
 - JavaScript
 - React
-- SCSS
+- SASS
 - HTML
