@@ -111,7 +111,7 @@ export default class IndecisionApp extends React.Component{
 
 
     render(){
-        const subTitle = 'Put your lifde in the hands of a computer'
+        const subTitle = 'Put your decisions in the hands of a computer!'
 
         return (
             <div >
