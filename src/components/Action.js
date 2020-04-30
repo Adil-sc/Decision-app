@@ -5,7 +5,7 @@ const Action =(props)=>{
         <div>
             {/**Calls the handlePick function from the parent Component */}
             <button className="big-button" onClick={props.handlePick} disabled={!props.hasOptions}>
-             What Should I do?
+             What Should I Do?
              </button>
         </div>
     );
